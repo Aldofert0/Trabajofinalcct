@@ -1,0 +1,56 @@
+   .nav {
+    margin: 2%;
+    margin-right: 50%;
+    border: solid;
+    background: linear-gradient(rgba(221, 23, 23, 0.795) 30%, rgba(235, 235, 235, 0.863) 5% )
+}
+.nav2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(175, 39, 39);
+    border: solid;
+    font-size: 23px;
+}
+.nav-top{
+    display: flex;
+    justify-content: end;
+    gap: 25px;
+}
+img {
+    border-radius: 50%;
+}
+.edu {
+    margin: 2%;
+    margin-right: 50%;
+    border: solid;
+    background: linear-gradient(rgba(221, 22, 22, 0.795) 40%,white 5% );
+}
+.nav-titles{
+   font-size: 50px;
+}
+.nav-links {
+    display: inline-flex;
+    justify-content: space-between;
+    gap: 25px;
+    font-size: 28px;
+}
+.request {
+    justify-content: end;
+}
+.costadoSuperior{
+    background: linear-gradient(rgb(177, 39, 39) 40%,rgb(218, 206, 206) 5% );
+    font-size: 23px;
+    margin: 2%;
+    margin-left: 60%;
+    margin-top: -33%;
+    border: solid;
+}
+.Profeciones{
+    background: linear-gradient(rgb(168, 39, 39) 40%,white 5% );
+    font-size: 23px;
+    margin: 2%;
+    margin-left: 60%;
+    margin-top: 5%;
+    border: solid;
+}
